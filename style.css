@@ -46,7 +46,7 @@ body{
 }
 .navbar-dark .navbar-brand{
     color: white;
-    font-size: 25px;
+    font-size: 15px;
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 2px;
@@ -106,4 +106,9 @@ body{
     .section-padding{
         padding: 50px 0;
     }
+}
+
+.small-text {
+    font-size: 0.7rem;
+    color: #d1d1d1;
 }
