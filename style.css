@@ -112,3 +112,41 @@ body{
     font-size: 0.7rem;
     color: #d1d1d1;
 }
+
+footer{
+    background-color: rgb(34, 34, 34);
+    color: white;
+    align-self: flex-end;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+}
+
+
+
+
+.cover{
+    text-align: center;
+    color: white;
+    padding: 30px;
+    min-height: 600px;
+    max-height: 800px;
+    position: relative;
+    display: grid;
+    grid-template-rows: 100px 1fr;
+}
+.cover::before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    background-image: linear-gradient(180deg, #0000008c 0%, #0000008c 100%), url(/img/Portada.png);
+    background-size: cover; /* Hace que la imagen cubra todo el área disponible */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-size: cover;
+    clip-path: polygon(0 0, 100% 0, 100% 80%, 50% 95%, 0 80%);
+    z-index: -1;
+}
