@@ -142,7 +142,7 @@ footer{
     height: 100%;
     top: 0%;
     left: 0%;
-    background-image: linear-gradient(180deg, #0000008c 0%, #0000008c 100%), url(https://images.unsplash.com/photo-1670859230965-4e564848c7bc?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHVuYW18ZW58MHx8MHx8fDA%3D);
+    background-image: linear-gradient(180deg, #0000008c 0%, #0000008c 100%), url(../img/Portada.png);
     background-size: cover; /* Hace que la imagen cubra todo el área disponible */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
