@@ -142,7 +142,7 @@ footer{
     height: 100%;
     top: 0%;
     left: 0%;
-    background-image: linear-gradient(180deg, #0000008c 0%, #0000008c 100%), url(../img/Portada.png);
+    background-image: linear-gradient(180deg, #0000008c 0%, #0000008c 100%), url(https://scontent-mty2-1.xx.fbcdn.net/v/t39.30808-6/474914921_122093479874763142_9010763830639567197_n.png?_nc_cat=105&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=XREQ76i8MIEQ7kNvgGfn3NE&_nc_zt=23&_nc_ht=scontent-mty2-1.xx&_nc_gid=AwV_39P3oOrfgmyoWFn9J3o&oh=00_AYCMyktFMQlB74E0kVxTQpnf_Rfz4KCWDRC84g6aLbcEdw&oe=67B1C1F3);
     background-size: cover; /* Hace que la imagen cubra todo el área disponible */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat; /* Evita que la imagen se repita */
