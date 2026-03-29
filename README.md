@@ -42,8 +42,8 @@ Puedes ver la página del curso funcionando aquí:
 
 ## 👨‍💻 Autor
 **Juan Reyes**  
-💻 Ingeniería en Computación en formación  
-🎨 Interés en desarrollo web, diseño UI/UX, educación y tecnología  
+💻 Ing. en Computación en formación  
+🎨 Interés en desarrollo web y tecnología  
 📍 México  
 
 [![GitHub](https://img.shields.io/badge/GitHub-JRC501-181717?logo=github)](https://github.com/JRC501)
